@@ -1,6 +1,6 @@
 # Templates
 
-Tested on Zabbix 6.4 version but sure will Work on 6.0, 6.2 and maybe earlier versions
+Tested on Zabbix 7.0 LTS and 6.4 version but sure will work on 6.0, 6.2 and maybe earlier versions
 
 ## Template XCP-ng 8.2 
 
